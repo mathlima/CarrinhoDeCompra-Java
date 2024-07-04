@@ -22,7 +22,7 @@ https://github.com/mathlima/CarrinhoDeCompra-Java/assets/52716331/e56c074b-ae83-
 
 <h1 align="center"> 📁 Acesso ao projeto </h1>
 
-**Você pode acessar o projeto através baixando os arquivos no meu repositorio.**
+**Você pode acessar o projeto baixando os arquivos no meu repositorio.**
 
 <h1 align="center"> ✅Técnicas e tecnologias utilizadas </h1>
 
