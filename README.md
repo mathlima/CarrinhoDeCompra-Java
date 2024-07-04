@@ -16,7 +16,9 @@ A ideia principal do projeto é replicar um sistema de carrinhos de compra onde 
 
 <h3 align="center"> 
 
-https://github.com/mathlima/Sistema-de-Banco/assets/52716331/c53a9dbd-2c90-4c04-930f-3d4abe862729
+
+https://github.com/mathlima/CarrinhoDeCompra-Java/assets/52716331/e56c074b-ae83-4b34-b875-66d72ec0996f
+
 
 <h1 align="center"> 📁 Acesso ao projeto </h1>
 
